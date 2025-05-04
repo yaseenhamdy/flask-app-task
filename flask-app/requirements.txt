@@ -1,0 +1,5 @@
+elasticsearch>=7.0.0,<8.0.0
+Flask==2.0.3
+requests==2.23.0
+Jinja2==3.0.3
+Werkzeug==2.0.3
